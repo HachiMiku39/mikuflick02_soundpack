@@ -4,6 +4,8 @@ Additional song packs and a companion save file for **Miku Flick/02** on compati
 
 This collection contains **21 DLC packs with 63 songs**. Together with the game's 11 built-in songs, the supplied save lists **74 songs**. The game itself is not included.
 
+**Installation verified:** the maintainer confirmed that this workflow works on a real device on September 14, 2026.
+
 [Download the release](https://github.com/HachiMiku39/mikuflick02_soundpack/releases/tag/pack) · [Official DLC catalog](https://miku.sega.jp/flick02/en/pack/)
 
 ## 1. Confirm that your device is jailbroken
@@ -45,9 +47,7 @@ Extract all song archives and the thumbnail archive on your computer. Keep the i
 
 ## 4. Transfer the save and packs
 
-> **Installation directory: verification pending.** The earlier guide listed both `Library/InstallData` and `Documents/InstallData`. The correct location has not yet been confirmed on a working device. Confirm the destination for your installation before transferring the packs; do not assume that creating either folder will make the game recognize them.
-
-Once the `InstallData` destination is confirmed:
+The maintainer has verified the save-and-pack transfer workflow on a real device. Use the `InstallData` folder for your game installation for the following steps:
 
 1. Keep the game completely closed.
 2. Copy `MikuFlick2.dat` into the game's `Documents` folder, replacing the existing file only after backing it up. The exact filename is **`MikuFlick2.dat`**, not `MikuFlick02.dat`.
@@ -78,17 +78,20 @@ The thumbnail archive contains folders for packs **1–14 and 17**. Do not renam
 
 ## 5. Launch and check
 
-Wait for all transfers to finish, then launch Miku Flick/02. Check the song list and try a DLC song before removing your backup.
+**Newly added songs may take some time to load. Keep the game open and wait for the album cover to appear before selecting or playing a new song.**
+
+Wait for all file transfers to finish, then launch Miku Flick/02. Allow the new songs and their album covers to load, then try a DLC song before removing your backup. An album cover that has not appeared yet does not by itself mean the installation failed.
 
 If a pack is missing or a song does not load:
 
+- First, allow time for the new songs to load and wait for their album covers to appear.
 - Confirm that you opened **Miku Flick/02**, not the original game.
 - Check the save filename and the confirmed `InstallData` destination.
 - Check capitalization and avoid extra nesting such as `InstallData/Mov_1/Mov_1/`.
 - Confirm that extraction and transfer completed without errors and that the game can read the copied files.
 - Close the game before making changes. Restore your backup to recover your previous progress if needed.
 
-The supplied save marks the DLC packs as purchased but **not installed**. The game's installation checks and recognition of manually copied packs still require device testing.
+The original supplied save records the DLC packs as purchased but **not installed**. The maintainer has now confirmed successful installation with the supplied files on a real device; this initial save flag alone should not be treated as an installation failure.
 
 ## Do I need the original Miku Flick?
 
@@ -109,4 +112,4 @@ Folder IDs do not follow the pack-name suffixes. **Do not renumber them.**
 
 On September 14, 2026, all **23 uploaded assets** were present, and every SHA-256 digest displayed by GitHub matched the corresponding local file. All 21 DLC packs listed in the official catalog had matching local archives.
 
-This confirms that the uploads match the checked local originals. It does not independently validate the media contents or guarantee successful installation on every device or game version.
+The maintainer also confirmed successful installation on a real device on September 14, 2026. The file checks and device test establish upload consistency and a working installation on the tested setup; they do not certify every song, difficulty, device, or game version.
