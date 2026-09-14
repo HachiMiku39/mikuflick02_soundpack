@@ -20,6 +20,7 @@ You will also need:
 - A Mac or PC and a file-transfer tool that can access the game's data folders.
 - An archive extractor that supports **ZIP and RAR**.
 - Approximately **6.6 GB of additional device storage** for the extracted packs, plus room for the game and its data. The downloads occupy approximately **6.3 GB** on your computer.
+- It's bad to have a 8GB iOS device.
 
 ## 2. Download and extract the files
 
