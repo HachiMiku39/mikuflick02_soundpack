@@ -1,6 +1,6 @@
-# Miku Flick/02 Sound Packs
+# MikuFlick02 Sound Packs
 
-Additional song packs and a companion save file for **Miku Flick/02** on compatible jailbroken iOS devices.
+Additional song packs and a companion save file for **MikuFlick02** on compatible jailbroken iOS devices.
 
 This collection contains **21 DLC packs with 63 songs**. Together with the game's 11 built-in songs, the supplied save lists **74 songs**. The game itself is not included.
 
@@ -16,7 +16,7 @@ If your device is not jailbroken, first find a jailbreak method for your **exact
 
 You will also need:
 
-- **Miku Flick/02 installed and able to launch** on your device.
+- **MikuFlick02 installed and able to launch** on your device.
 - A Mac or PC and a file-transfer tool that can access the game's data folders.
 - An archive extractor that supports **ZIP and RAR**.
 - Approximately **6.6 GB of additional device storage** for the extracted packs, plus room for the game and its data. The downloads occupy approximately **6.3 GB** on your computer.
@@ -38,7 +38,7 @@ Extract all song archives and the thumbnail archive on your computer. Keep the i
 
 ## 3. Back up your game data
 
-1. Launch Miku Flick/02 once if you have never opened it, then close it completely from the app switcher.
+1. Launch MikuFlick02 once if you have never opened it, then close it completely from the app switcher.
 2. Connect the device to your computer.
 3. Locate the game's data folder containing `Documents` and `Library`. The full path varies by device and iOS version and may use an identifier rather than the game's name.
 4. Copy the existing `Documents` and `Library` folders to your computer as a backup.
@@ -80,12 +80,12 @@ The thumbnail archive contains folders for packs **1–14 and 17**. Do not renam
 
 **Newly added songs may take some time to load. Keep the game open and wait for the album cover to appear before selecting or playing a new song.**
 
-Wait for all file transfers to finish, then launch Miku Flick/02. Allow the new songs and their album covers to load, then try a DLC song before removing your backup. An album cover that has not appeared yet does not by itself mean the installation failed.
+Wait for all file transfers to finish, then launch MikuFlick02. Allow the new songs and their album covers to load, then try a DLC song before removing your backup. An album cover that has not appeared yet does not by itself mean the installation failed.
 
 If a pack is missing or a song does not load:
 
 - First, allow time for the new songs to load and wait for their album covers to appear.
-- Confirm that you opened **Miku Flick/02**, not the original game.
+- Confirm that you opened **MikuFlick02**, not the original game.
 - Check the save filename and the confirmed `InstallData` destination.
 - Check capitalization and avoid extra nesting such as `InstallData/Mov_1/Mov_1/`.
 - Confirm that extraction and transfer completed without errors and that the game can read the copied files.
@@ -95,9 +95,10 @@ The original supplied save records the DLC packs as purchased but **not installe
 
 ## Do I need the original Miku Flick?
 
-**You do not need the original game to play the 12 returning songs included in the four MikuFlick DLC packs.** They are played inside Miku Flick/02.
+**You do not need the original game to play the 12 returning songs included in the four MikuFlick DLC packs.** They are played inside Miku Flick02.
+If you installed the DLC and no installed OG version, you may save about 1GB of storage.
 
-However, this collection does **not** include **Ai Kotoba** or **Magical Sound Shower**, both listed on the [original game's official site](https://miku.sega.jp/flick/en/). It therefore does not replace the original game's complete song library.
+However, this collection does **not** include **Ai Kotoba(Love Words)** or **Magical Sound Shower**, both listed on the [original game's official site](https://miku.sega.jp/flick/en/). It therefore does not replace the original game's complete song library.
 
 | Original-game DLC pack | Folder |
 |---|---|
