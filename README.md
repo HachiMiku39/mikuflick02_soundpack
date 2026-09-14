@@ -115,3 +115,104 @@ Folder IDs do not follow the pack-name suffixes. **Do not renumber them.**
 On September 14, 2026, all **23 uploaded assets** were present, and every SHA-256 digest displayed by GitHub matched the corresponding local file. All 21 DLC packs listed in the official catalog had matching local archives.
 
 The maintainer also confirmed successful installation on a real device on September 14, 2026. The file checks and device test establish upload consistency and a working installation on the tested setup; they do not certify every song, difficulty, device, or game version.
+
+## Song overlap with modern SEGA rhythm games
+
+All **74 Miku Flick/02 songs** (11 built-in + 63 DLC) are listed below with their original titles. These songs also appear in the **Project DIVA** series; Miku Flick/02 uses pre-rendered Project DIVA PV footage as its gameplay background. This comparison is by song, so edits, arrangements, vocals and charts may differ between games.
+
+**Checked: September 14, 2026.** Availability follows the current catalogs in the sources below, rather than every historical release. JP means Japan; INTL means maimai/CHUNITHM International or Project SEKAI's global English server. Separate mainland Chinese, Taiwanese and Korean releases are outside this comparison.
+
+- **✅**: listed in both JP and INTL; for ONGEKI, listed in Japan.
+- **⚠️**: listed in Japan but absent from the international catalog.
+- **—**: absent from the current catalogs checked; this does not mean the song was never included.
+- Exceptions are explained below the table. Unlock requirements are not represented.
+
+| Original song title | Miku Flick/02 pack | maimai / 舞萌 | CHUNITHM / 中二节奏 | ONGEKI / 音击 | Project SEKAI / 世界计划 |
+|---|---|:---:|:---:|:---:|:---:|
+| 恋は戦争 | Built-in | — | — | — | ✅ |
+| ハジメテノオト | Built-in | — | — | — | ✅ |
+| 炉心融解 | Built-in | ⚠️ | ✅ | ✅ | ✅ |
+| 右肩の蝶 | Built-in | ⚠️ | — | — | ✅ |
+| Just Be Friends | Built-in | ⚠️ | ✅ | — | ✅ |
+| クローバー♣クラブ | Built-in | ⚠️ | — | — | — |
+| magnet | Built-in | — | ✅ | — | — |
+| Promise | Built-in | — | — | — | — |
+| 裏表ラバーズ | Built-in | ✅ | ✅ | ✅ | ✅ |
+| 初音ミクの激唱 | Built-in | ✅ | ✅ | ✅ | ✅ |
+| 多重未来のカルテット -Quartet Theme- | Built-in | — | ✅ | — | — |
+| カンタレラ | Duet_Pack01 | — | — | — | ✅ |
+| ジェミニ | Duet_Pack01 | — | — | — | — |
+| カラフル×セクシィ | Duet_Pack01 | — | — | — | — |
+| こっち向いて Baby | Diva_Pack01 | — | — | — | — |
+| Yellow | Diva_Pack01 | — | — | — | — |
+| カラフル×メロディ | Diva_Pack01 | ⚠️ | — | — | — |
+| Dear cocoa girls | Summer_Pack01 | — | — | — | — |
+| イヤイヤ星人 | Summer_Pack01 | — | — | — | — |
+| そいやっさぁ!! | Summer_Pack01 | — | — | — | — |
+| みくみくにしてあげる♪【してやんよ】 | Dance_Pack01 | ✅ | ✅ | — | ✅ |
+| ルカルカ★ナイトフィーバー | Dance_Pack01 | ✅ | — | — | ✅ |
+| ナイトメア☆パーティーナイト | Dance_Pack01 | ✅ | — | — | — |
+| 番凩 | Autumn_Pack01 | — | — | — | ✅ |
+| 巨大少女 | Autumn_Pack01 | — | — | — | — |
+| リンリンシグナル | Autumn_Pack01 | — | — | — | — |
+| ココロ | Tear_Pack01 | ⚠️ | — | — | ✅ |
+| VOiCE -DIVA MIX- | Tear_Pack01 | — | — | — | — |
+| ひねくれ者 | Tear_Pack01 | — | — | — | — |
+| 金の聖夜霜雪に朽ちて | Winter_Pack01 | ⚠️ | — | — | — |
+| 初めての恋が終わる時 | Winter_Pack01 | — | — | — | ✅ |
+| ストロボナイツ | Winter_Pack01 | — | — | — | — |
+| パズル | Guitar_Pack01 | — | — | — | — |
+| 迷的サイバネティックス | Guitar_Pack01 | — | — | — | — |
+| 積乱雲グラフィティ | Guitar_Pack01 | — | — | — | — |
+| ジュゲムシーケンサー | Japan_Pack01 | — | — | — | — |
+| いろは唄 | Japan_Pack01 | — | ✅ | — | — |
+| 数多の舞 -Dance of many- | Japan_Pack01 | — | — | — | — |
+| ゆめゆめ | Anniversary_Pack01 | — | — | — | — |
+| Innocence | Anniversary_Pack01 | — | — | — | — |
+| ワールズエンド・ダンスホール | Anniversary_Pack01 | ✅ | ✅ | ✅ | ✅ |
+| ほんとは分かってる | Farewell_Pack01 | — | — | — | — |
+| 歌に形はないけれど | Farewell_Pack01 | — | — | — | — |
+| SPiCa | Farewell_Pack01 | ⚠️ | — | — | — |
+| ダブルラリアット | Star_Pack01 | ⚠️ / 宴 ✅ [1] | ✅ | — | ✅ |
+| ＊ハロー、プラネット。 | Star_Pack01 | ✅ | INTL ✅ / JP — [2] | — | ✅ |
+| from Y to Y | Star_Pack01 | — | — | — | ✅ |
+| 結んで開いて羅刹と骸 | Dark_Pack01 | — | ✅ | — | — |
+| 崩壊歌姫 -disruptive diva- | Dark_Pack01 | — | ✅ | — | — |
+| さあ、どっち？ | Dark_Pack01 | — | — | — | — |
+| みくみく菌にご注意♪ | Lovely_Pack01 | — | — | — | — |
+| 恋色病棟 | Lovely_Pack01 | — | — | — | — |
+| ねこみみスイッチ | Lovely_Pack01 | — | — | — | — |
+| 孤独の果て -extend edition- | Rock_Pack01 | — | — | ✅ | — |
+| ローリンガール | Rock_Pack01 | ✅ | ✅ | — | ✅ |
+| 透明水彩 | Rock_Pack01 | — | — | — | — |
+| on the rocks | mirai_Pack01 | ✅ | — | — | ✅ |
+| No Logic | mirai_Pack01 | — | — | — | — |
+| 妄想スケッチ | mirai_Pack01 | — | — | — | — |
+| The secret garden | Thankyou_Pack01 | — | ✅ | — | — |
+| 39 | Thankyou_Pack01 | ✅ | ✅ | ✅ | ✅ |
+| その一秒スローモーション | Thankyou_Pack01 | — | — | — | — |
+| ロミオとシンデレラ | MikuFlick_Pack01 | ✅ | ✅ | ✅ | ✅ |
+| えれくとりっく・えんじぇぅ | MikuFlick_Pack01 | ⚠️ | — | — | ✅ |
+| ファインダー(DSLR remix - re：edit) | MikuFlick_Pack01 | — | — | — | — |
+| メルト | MikuFlick_Pack02 | ✅ | ✅ | ✅ | ✅ |
+| StargazeR | MikuFlick_Pack02 | ✅ | ✅ | — | — |
+| moon | MikuFlick_Pack02 | — | — | — | — |
+| ワールドイズマイン | MikuFlick_Pack03 | — | ✅ | — | ✅ |
+| あなたの歌姫 | MikuFlick_Pack03 | — | — | — | — |
+| タイムリミット | MikuFlick_Pack03 | — | — | — | — |
+| ぽっぴっぽー | MikuFlick_Pack04 | ✅ | ✅ | — | — |
+| 恋スルVOC@LOID | MikuFlick_Pack04 | — | — | — | — |
+| 初音ミクの消失 | MikuFlick_Pack04 | ✅ | ✅ | ✅ | ✅ |
+
+**Regional and version notes**
+
+1. **ダブルラリアット — maimai:** the regular Standard chart set is listed only in Japan. The international catalog does include the special UTAGE/宴会場 entry **[回]ダブルラリアット** (Buddy), so the song is not entirely Japan-exclusive.
+2. **＊ハロー、プラネット。 — CHUNITHM:** still listed internationally; the Japanese deletion catalog records removal on **December 11, 2025**. It therefore receives an explicit INTL/JP label rather than a Japan-only warning.
+3. **孤独の果て:** Flick/02 lists **-extend edition-**; ONGEKI lists **孤独の果て**. The checkmark denotes the underlying song, not an identical audio edit. The same song-level rule applies to PV edits and Project SEKAI covers.
+4. None of the matching CHUNITHM or Project SEKAI songs is Japan-only in the catalogs checked on this date. Future updates and license expirations can change these results.
+
+**Sources and update basis**
+
+- Miku Flick/02: [official site](https://miku.sega.jp/flick02/), [official DLC catalog](https://miku.sega.jp/flick02/pack/) and [Flick/02 song list](https://w.atwiki.jp/miku_flick/pages/33.html). [Game background and pre-rendered PVs](https://en.wikipedia.org/wiki/Miku_Flick/02).
+- Arcade catalogs: [OTOGE DB on GitHub](https://github.com/zvuc/otoge-db), checked through its [maimai](https://otoge-db.net/maimai/), [CHUNITHM](https://otoge-db.net/chunithm/) and [ONGEKI](https://otoge-db.net/ongeki/) tables. Both JP and INTL views were checked where available. Displayed database update dates: maimai **2026-09-04**; CHUNITHM and ONGEKI **2026-09-03**. The repository stores Japanese data in music-ex.json and international data in music-ex-intl.json; [CHUNITHM's deletion list](https://github.com/zvuc/otoge-db/blob/main/chunithm/data/music-ex-deleted.json) supports note 2.
+- Project SEKAI: [Japanese master song data](https://github.com/Sekai-World/sekai-master-db-diff/blob/main/musics.json) and [global English master song data](https://github.com/Sekai-World/sekai-master-db-en-diff/blob/main/musics.json), matched by music ID across servers and checked against publication dates. All **25** matching songs have already been released on both servers.
