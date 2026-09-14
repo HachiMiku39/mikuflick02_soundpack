@@ -120,14 +120,15 @@ The maintainer also confirmed successful installation on a real device on Septem
 
 All **74 Miku Flick/02 songs** (11 built-in + 63 DLC) are listed below with their original titles. These songs also appear in the **Project DIVA** series; Miku Flick/02 uses pre-rendered Project DIVA PV footage as its gameplay background. This comparison is by song, so edits, arrangements, vocals and charts may differ between games.
 
-**Checked: September 14, 2026.** Availability follows the current catalogs in the sources below, rather than every historical release. JP means Japan; INTL means maimai/CHUNITHM International or Project SEKAI's global English server. Separate mainland Chinese, Taiwanese and Korean releases are outside this comparison.
+**Checked: September 14, 2026.** Availability follows the current catalogs in the sources below, rather than every historical release. JP means Japan; INTL means maimai/CHUNITHM International or Project SEKAI's global English server. 
+For PJSK, Separate Chinese SC, TC and Korean releases are outside this comparison (if needed).
 
 - **✅**: listed in both JP and INTL; for ONGEKI, listed in Japan.
 - **⚠️**: listed in Japan but absent from the international catalog.
 - **—**: absent from the current catalogs checked; this does not mean the song was never included.
 - Exceptions are explained below the table. Unlock requirements are not represented.
 
-| Original song title | Miku Flick/02 pack | maimai / 舞萌 | CHUNITHM / 中二节奏 | ONGEKI / 音击 | Project SEKAI / 世界计划 |
+| Original song title | MikuFlick02 pack | maimai | CHUNITHM | ONGEKI | Project SEKAI |
 |---|---|:---:|:---:|:---:|:---:|
 | 恋は戦争 | Built-in | — | — | — | ✅ |
 | ハジメテノオト | Built-in | — | — | — | ✅ |
