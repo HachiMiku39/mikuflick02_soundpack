@@ -1,4 +1,4 @@
-# MikuFlick02 Sound Packs
+# MikuFlick02 Sound Packs/Jailbreak your iOS 6/9 device after 2026
 
 Additional song packs and a companion save file for **MikuFlick02** on compatible jailbroken iOS devices.
 
@@ -7,6 +7,9 @@ This collection contains **21 DLC packs with 63 songs**. Together with the game'
 **Installation verified:** the maintainer confirmed that this workflow works on a real device on September 14, 2026.
 
 [Download the release](https://github.com/HachiMiku39/mikuflick02_soundpack/releases/tag/pack) · [Official DLC catalog](https://miku.sega.jp/flick02/en/pack/)
+
+It's recommended to downgrade your iOS 9 iPhone 4s to iOS 6
+For iOS 10 users, to jailbreak your device, see another branch.
 
 ## 1. Confirm that your device is jailbroken
 
