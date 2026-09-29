@@ -9,6 +9,7 @@ This collection contains **21 DLC packs with 63 songs**. Together with the game'
 [Download the release](https://github.com/HachiMiku39/mikuflick02_soundpack/releases/tag/pack) · [Official DLC catalog](https://miku.sega.jp/flick02/en/pack/)
 
 It's recommended to downgrade your iOS 9 iPhone 4s to iOS 6
+
 For iOS 10 users, to jailbreak your device, see another branch.
 
 ## 1. Confirm that your device is jailbroken
