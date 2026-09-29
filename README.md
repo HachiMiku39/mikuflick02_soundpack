@@ -29,7 +29,7 @@ Open the [release page](https://github.com/HachiMiku39/mikuflick02_soundpack/rel
 | Files | Count | Purpose |
 |---|---:|---|
 | `Mov_1.zip` through `Mov_17.zip` | 17 | Main DLC packs |
-| `Mov_96.zip`, `mov_97.zip`, `Mov_98.rar`, `mov_99.zip` | 4 | Original Miku Flick song packs |
+| `Mov_96.zip`, `Mov_97.zip`, `Mov_98.rar`, `Mov_99.zip` | 4 | Original Miku Flick song packs |
 | `Thum1-14_17.zip` | 1 | Additional pack thumbnails |
 | `MikuFlick2.dat` | 1 | Companion save file |
 
