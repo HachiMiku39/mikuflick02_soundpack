@@ -41,6 +41,11 @@ Open the [release page](https://github.com/HachiMiku39/mikuflick02_soundpack/rel
 
 Extract all song archives and the thumbnail archive on your computer. Keep the internal folders, filenames, and capitalization unchanged. Although two archive names start with lowercase `mov`, their internal folders are named `Mov_97` and `Mov_99`.
 
+WARNING： DO NOT LOGOUT YOUR APPLE ID AFTER INSTALLED SOUNDPACK OR YOU WILL LOSE ALL DATA.
+
+YOU HAVE TO REINSTALL IT AND RELOAD THEM！ 
+
+OR YOU WILL LOSE ALL DLC BUT IT STILL 
 ## 3. Back up your game data
 
 1. Launch MikuFlick02 once if you have never opened it, then close it completely from the app switcher.
