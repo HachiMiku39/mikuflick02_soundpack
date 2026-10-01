@@ -45,7 +45,7 @@ WARNING： DO NOT LOGOUT YOUR APPLE ID AFTER INSTALLED SOUNDPACK OR YOU WILL LOS
 
 YOU HAVE TO REINSTALL IT AND RELOAD THEM！ 
 
-OR YOU WILL LOSE ALL DLC BUT IT STILL 
+
 ## 3. Back up your game data
 
 1. Launch MikuFlick02 once if you have never opened it, then close it completely from the app switcher.
