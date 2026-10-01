@@ -25,6 +25,7 @@ You will also need:
 - An archive extractor that supports **ZIP and RAR**.
 - Approximately **7.2 GB of additional device storage** for the extracted packs, plus room for the game and its data. The downloads occupy approximately **7.1 GB** on your computer.
 - It's bad to have a 8GB iOS device.
+- If you have 16GB device, is recommended to install a part of soundpacks.
 
 ## 2. Download and extract the files
 
