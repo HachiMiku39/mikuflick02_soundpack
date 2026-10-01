@@ -26,6 +26,8 @@ You will also need:
 - Approximately **7.2 GB of additional device storage** for the extracted packs, plus room for the game and its data. The downloads occupy approximately **7.1 GB** on your computer.
 - It's bad to have a 8GB iOS device.
 - If you have 16GB device, is recommended to install a part of soundpacks.
+- Partial installation is allowed， for example, you can only load Mov_01, Mov_97, Mov_98 folders
+  
 
 ## 2. Download and extract the files
 
@@ -44,7 +46,7 @@ Extract all song archives and the thumbnail archive on your computer. Keep the i
 
 WARNING： DO NOT LOGOUT YOUR APPLE ID AFTER INSTALLED SOUNDPACK OR YOU WILL LOSE ALL DATA.
 
-YOU HAVE TO REINSTALL IT AND RELOAD THEM！ 
+YOU HAVE TO REINSTALL THE APP AND RELOAD THEM！ NOT JUST RELOAD FILES.
 
 
 ## 3. Back up your game data
@@ -86,6 +88,7 @@ InstallData/
 ```
 
 The thumbnail archive contains folders for packs **1–14 and 17**. Do not rename folders to fill gaps in the numbering. Preserve every file inside each `Mov_*` folder, including `verificationFile.dat`.
+(Updated on Oct. 1st 2026: thumbnail folders are not the vital parts, you can bypass them, the game will regenerate them.)
 
 ## 5. Launch and check
 
