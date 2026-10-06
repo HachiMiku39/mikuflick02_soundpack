@@ -10,7 +10,7 @@ This collection contains **21 DLC packs with 63 songs**. Together with the game'
 
 It's recommended to downgrade your iOS 9 iPhone 4s to iOS 6
 
-For iOS 10 users, to jailbreak your device, see another branch.
+For iOS 10 users, see the [iPhone 6s / iOS 10.3.1 jailbreak and installation guide](docs/ios10-jailbreak.md).
 
 ## 1. Confirm that your device is jailbroken
 
